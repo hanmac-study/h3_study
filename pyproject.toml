@@ -1,6 +1,6 @@
 [project]
 name = "h3-study"
 version = "0.1.0"
-description = "Add your description here"
+description = "UBER H3 실습용 리포지토리"
 requires-python = ">=3.11"
 dependencies = []
